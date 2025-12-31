@@ -2,7 +2,7 @@ Welcome to my profile!
 
 **QA Automation Engineer | Cypress | Playwright | Selenium | Python | JavaScript**
 
-> Apasionado por la tecnología y el arte de resolver problemas, con más de 4 años asegurando la calidad de productos digitales en banca y fintech.
+> Apasionado por la tecnología y el arte de resolver problemas, con más de 4 años asegurando la calidad de productos digitales en banca, fintech y telecomunicaciones.
 
 ---
 
